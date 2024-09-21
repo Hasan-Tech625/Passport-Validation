@@ -1,6 +1,6 @@
-Project Description: The Password Checker
+Project Description: The Password Validator
 Overview:
-The Password Checker is a JavaScript application designed to help users create secure passwords and assess the strength of their current passwords. By evaluating various criteria such as length, complexity, and predictability, this tool provides instant feedback, empowering users to enhance their online security.
+The Password Validtor is a JavaScript application designed to help users create secure passwords and assess the strength of their current passwords. By evaluating various criteria such as length, complexity, and predictability, this tool provides instant feedback, empowering users to enhance their online security.
 Features:
 
 Strength Assessment: Analyzes passwords based on established security criteria (length, use of uppercase/lowercase letters, numbers, and special characters).
